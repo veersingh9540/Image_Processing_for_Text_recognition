@@ -36,7 +36,7 @@ def load():
 def abt_us():
     tk.messagebox.showinfo("Developed By","Sukhveer Singh")
 def git_lnk():
-    tk.messagebox.showinfo("GITHUB","github.com/veersingh give LIKE and SHARE")  
+    tk.messagebox.showinfo("GITHUB","github.com/veersingh9540 give LIKE and SHARE")  
 menubar = tk.Menu(root)
 root.config(menu=menubar)
 # create a pulldown menu, and add it to the menu bar
