@@ -8,3 +8,10 @@ this project works as Follows :-
 
 
 NOTE **if the vehicle number cannot be scanned. then the vehicle number plate is not legal then the driver will have to enter the car no manually with his photo captured and he is fines according to the legal law for RTO.**
+
+The user interface will look like this 
+
+I used OpenCV , pytesseract as algorithm for making the text recognition 
+tinkter is used as GUI its in Beta now i'm working on the designs 
+**If you guys can sujjest some GUI or program changes. I Do appreciate that **
+
