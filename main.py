@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  4 02:57:40 2019
-
-@author: veersingh
-"""
 
 import tkinter as tk
 import datetime
@@ -23,8 +16,6 @@ from matplotlib.figure import Figure
 #from pandas import DataFrame
 import numpy as np
 #import search
-from imutils.object_detection import non_max_suppression
-import argparse
 WIDTH = 1500
 HEIGHT =1500
 root = tk.Tk()
