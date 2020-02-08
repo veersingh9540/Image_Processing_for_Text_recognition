@@ -1,6 +1,6 @@
 # Automated_toll_tax
 
-Ongoing project on Raspberry Pi. using python/java/php to make the whole toll tax system automated
+Ongoing project on Image processing . using python/java/php/Mysql to make the whole toll tax system automated
 this project works as Follows :-
 1) We planned to use image text recognition to scan the vehicle no.
 2) After scanning system will ask the questions such as **one_way,two_way,destination then according to that system generates money command**
