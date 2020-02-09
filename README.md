@@ -15,4 +15,5 @@ The user interface will look like this
 I used OpenCV , pytesseract, Thresholding as algorithm for making the text recognition 
 tinkter is used as GUI its in Beta now i'm working on the designs 
 **If you guys can sujjest some GUI or program changes. I Do appreciate that **
-
+I PLANNED TO MAKE IT WORK ON DIFFERENT SENERAIONS ALSO 
+SUCH AS PARKING,RESIDENTIAL PARKING etc.
